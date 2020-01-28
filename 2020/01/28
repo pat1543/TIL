@@ -1,0 +1,20 @@
+- 新しいEC2インスタンスを立ち上げたらやること
+  https://qiita.com/naoki_mochizuki/items/814e0979217b1a25aa3e
+- 秘密鍵を置くのはEC2？ローカル？
+  https://dev.classmethod.jp/cloud/aws/amazon-ec2-keypair-security/
+  http://www.k-staging.com/?p=15
+- nginxのコマンド
+# 設定ファイルに問題がないかチェック  
+$ sudo nginx -t  
+
+# 起動  
+$ sudo nginx  
+
+# 停止  
+$ sudo nginx -s stop  
+
+# 再起動  
+$ sudo nginx -s reload  
+
+- evalとは？
+　　https://www.atmarkit.co.jp/ait/articles/1712/22/news019.html
